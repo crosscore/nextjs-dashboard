@@ -1,3 +1,4 @@
+// nextjs-dashboard/tsconfig.json
 {
   "compilerOptions": {
     "target": "es5",
